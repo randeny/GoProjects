@@ -1,0 +1,12 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 2425-DB64
+
+ Directory of C:\Work\Code\goProjects
+
+07/02/2020  03:47 PM    <DIR>          .
+07/02/2020  03:47 PM    <DIR>          ..
+07/02/2020  03:47 PM                 0 dir.txt
+07/01/2020  11:21 PM                46 readmme.txt
+07/02/2020  03:45 PM    <DIR>          webServer
+               2 File(s)             46 bytes
+               3 Dir(s)  20,556,668,928 bytes free
